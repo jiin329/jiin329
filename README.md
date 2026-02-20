@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&text=Hello,%20I'm%20Jiin&fontSize=70&fontColor=ffffff&desc=Software%20Engineer&descFontSize=25&fontAlign=50&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=180&section=header&text=Hello,%20I'm%20Jiin&fontSize=50&fontColor=ffffff&desc=Software%20Engineer&descFontSize=25&fontAlign=50&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=11998E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Driven+Productivity;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=11998E&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;AI+Driven+Productivity;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,4 +40,4 @@
   </a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=60&section=footer)
